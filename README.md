@@ -58,19 +58,20 @@
     </a>  
 </p>
 
+<h3 align="left">Git status:</h3>
 <p>
     <img 
         align="left" 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=thdeathz&show_icons=true&locale=en&layout=compact" alt="thdeathz" 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=thdeathz&show_icons=true&locale=en&layout=compact" 
+        alt="thdeathz" 
+        width="45%"
+        height="200"
     />
     <img 
-        align="right" 
+        align="right"
         src="https://github-readme-stats.vercel.app/api?username=thdeathz&show_icons=true&locale=en" 
         alt="thdeathz" 
+        width="50%"
+        height="200"
     />
 </p>
-
-<!---
-Thdeathz/Thdeathz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
