@@ -15,6 +15,7 @@
 </p>
 
 ### Spotify Playing 🎧
+
 [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117)](https://open.spotify.com/user/31rqszbuwyhfigr354wh3yp2h53i?si=ffc4e45d58864ace)
 
 <h3 align="left">Languages and Tools:</h3>
@@ -58,23 +59,18 @@
             width="50" 
             height="50"
         /> 
-    </a>  
+    </a>
 </p>
 
-<!-- <h3 align="left">Github status:</h3>
+<h3 align="left">Badges:</h3>
+
 <p>
-    <img 
-        align="left" 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=thdeathz&show_icons=true&locale=en&layout=compact" 
-        alt="thdeathz" 
-        width="45%"
-        height="200"
-    />
-    <img 
-        align="right"
-        src="https://github-readme-stats.vercel.app/api?username=thdeathz&show_icons=true&locale=en" 
-        alt="thdeathz" 
-        width="50%"
-        height="200"
-    />
-</p> -->
+    <a href="https://www.credly.com/badges/bbf8e0bc-1bcd-4ab3-a6e3-0b7e79539cce/public_url" target="_blank" rel="noreferrer"> 
+        <img 
+            src="assets/badges/saa-c03.png" 
+            alt="saa-c03" 
+            width="50" 
+            height="50"
+        /> 
+    </a>
+</p>
