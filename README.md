@@ -73,4 +73,12 @@
             height="50"
         /> 
     </a>
+    <a href="https://www.credly.com/badges/06296478-113d-496c-9bbd-38fc32eaa3bc/public_url" target="_blank" rel="noreferrer"> 
+        <img 
+            src="assets/badges/dva-c02.png" 
+            alt="dva-c02" 
+            width="50" 
+            height="50"
+        /> 
+    </a>
 </p>
