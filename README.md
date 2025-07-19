@@ -65,6 +65,14 @@
 <h3 align="left">Badges:</h3>
 
 <p>
+    <a href="https://www.credly.com/badges/2071e5d8-df4a-43a0-b766-7dedd6c25789/public_url" target="_blank" rel="noreferrer"> 
+        <img 
+            src="assets/badges/aif-c01.png" 
+            alt="aif-c01" 
+            width="50" 
+            height="50"
+        /> 
+    </a>
     <a href="https://www.credly.com/badges/bbf8e0bc-1bcd-4ab3-a6e3-0b7e79539cce/public_url" target="_blank" rel="noreferrer"> 
         <img 
             src="assets/badges/saa-c03.png" 
